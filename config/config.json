@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x81568Ce523228118eBC4a2c44D81c9838f1997B3",
+  "SCAN_LINK": "https://etherscan.io/address/0x81568Ce523228118eBC4a2c44D81c9838f1997B3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Baby SPuD",
+  "SYMBOL": "SPuD",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 12000000000000000,
+  "DISPLAY_COST": 0.012,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-spud",
+  "SHOW_BACKGROUND": true
+}
